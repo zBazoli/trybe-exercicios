@@ -1,3 +1,3 @@
 # trybe-exercicios
 
-Testando
+Testando 1 .. 2 .. 3
